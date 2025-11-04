@@ -1,0 +1,15 @@
+# Ignore Python compiled files
+__pycache__/
+*.pyc
+
+# Ignore environment variables
+.env
+
+# Ignore logs
+*.log
+
+# Ignore VS Code workspace settings
+.vscode/
+
+# Ignore folder
+sql_load/temp/
