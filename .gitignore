@@ -15,5 +15,5 @@ __pycache__/
 sql_load/temp/
 
 # Ignore the csv_files folder
-csv_files/
+csv_files
 
